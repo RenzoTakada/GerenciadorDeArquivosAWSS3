@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XDXM/P1GcRUv5GOIZT602pC021p2j+/ORoCyvOHvoxQ=",
+  "Source": "GerenciadorDeArquivosBucketS3",
+  "BasePath": "_content/GerenciadorDeArquivosBucketS3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

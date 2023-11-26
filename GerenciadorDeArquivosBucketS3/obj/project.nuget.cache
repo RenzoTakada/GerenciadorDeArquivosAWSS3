@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jTaxgwxeEmz05K6gn7WBM78C6b2E526DrBY8eXLs6mvEz9mTpbVe3MckfCeE4t9+HTKP4mQwG0PM5zfnapvXcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renzo\\Estudos\\GerenciadorDeArquivosBucketS3\\GerenciadorDeArquivosBucketS3\\GerenciadorDeArquivosBucketS3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renzo\\.nuget\\packages\\awssdk.core\\3.7.300.7\\awssdk.core.3.7.300.7.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\awssdk.s3\\3.7.302\\awssdk.s3.3.7.302.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\renzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

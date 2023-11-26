@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GerenciadorDeArquivosBucketS3.props" />
+</Project>
